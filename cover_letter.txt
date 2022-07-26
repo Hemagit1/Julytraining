@@ -1,0 +1,31 @@
+Hemangini Patel
+(848) 391-8361
+hemanginipatel38@gmail.com
+North Brunswick, NJ
+june 24, 2022
+
+I am submitting my resume for the QA opprtunity. As a skilled and highly educated professional with 3 years of experience testing Web-based and mobile applications, I am confident in my ability to make a significant contribution to your organization.
+
+My professional experience includes analyzing the business requirements, creating test strategies, and executing tests to identify bugs in software, and creating and maintaining test cases for the same. 
+
+With my educational background and my attention to detail and performance, I am in an excellent position to help your organization to produce top-quality software products.  
+
+The following are some Skills and highlights of my qualifications and experience:
+
+- Working Knowledge of tools like JIRA, and TestRail.
+- UI and Functional Testing
+- Mobile testing
+- Experienced all phases of  Agile and Waterfall models.
+- Frameworks using TestNG (Page object Model, Data-Driven, Page Factory, etc. )
+- Working experience on Selenium WebDriver using Java for UI testing.
+- Backbox Testing (System, System Integration, Smoke, Sanity, Regression, Ad-hoc)
+- Complete knowledge of SDLC and STLC and Bug life cycle.
+- Team Leading experience
+- Basic Knowledge of Rest API(Postman)
+
+My keen knowledge of software testing, review, and validation—along with my ability to think of innovative solutions and present them to clients—will allow me to bring much value to your organization. I look forward to discussing this position and my qualifications with you.
+
+Thank you for your consideration.
+
+Regards,
+Hemangini Patel
